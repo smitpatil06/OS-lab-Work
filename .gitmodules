@@ -1,0 +1,6 @@
+[submodule "CPU_Scheduling_Visualizer"]
+	path = CPU_Scheduling_Visualizer
+	url = https://github.com/Aryan107rn/CPU_Scheduling_Visualizer
+[submodule "Os-mini-project"]
+	path = Os-mini-project
+	url = https://github.com/smitpatil06/Hospital-Management-and-Emergency-Care-System
